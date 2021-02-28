@@ -1,3 +1,6 @@
+:root{
+    scroll-behavior: smooth;
+}
 *{
     box-sizing: border-box;
 }
@@ -62,9 +65,6 @@ li {
    justify-items: center;
    height: 40px;
    margin: 0 0;
-}
-a{
-
 }
 li.nav-l:hover{
     animation-name: background-color;

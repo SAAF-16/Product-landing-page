@@ -230,4 +230,28 @@ a:link {
     header{
         height: 300px;
     }
+    #div-video{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+        margin:0 auto;
+    
+    }
+    #div-pricing{
+
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+    
+    
+    }
+    #div-pricing>div{
+        margin: 10px auto;
+        height:300px;
+        width: 80%;
+        background-color: thistle;
+    
+    }
   }
